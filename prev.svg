@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" fill="#000000"
+            class="injected-svg" data-src="/icons/previous-stroke-sharp.svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+            role="img" color="#ffffff">
+            <path d="M20 19V5L8 12L20 19Z" stroke="#ffffff" stroke-width="3" stroke-linejoin="round"></path>
+            <path d="M4 4V20" stroke="#ffffff" stroke-width="3"></path>
+          </svg>
