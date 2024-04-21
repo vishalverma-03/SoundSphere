@@ -1,0 +1,2 @@
+# SoundSphere
+A spotify clone
